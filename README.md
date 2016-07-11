@@ -1,9 +1,11 @@
 ### projects
 1. Extra
+ Extra Solution Technologies
 ###  project name
-Extra Solution Technologies
-### link to the repo
+
 link: https://github.com/mutaihillary/extra
+### link to the repo
+
 ### details
 Its  a website for and IT firm.
 
