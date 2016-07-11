@@ -1,6 +1,6 @@
 ### projects
 1. Extra
-### project name
+###  project name
 Extra Solution Technologies
 ### link to the repo
 link: https://github.com/mutaihillary/extra
