@@ -1,19 +1,19 @@
-### projects
+### Projects
 1. Extra
  
 project name: Extra Solution Technologies
 
 link to the repo: https://github.com/mutaihillary/extra
 
-### details
+### Details
 Its  a website for and IT firm.
 
-### features
+### Deatures
 Home page
 Service
 Portofolio
 Contact us
-### tools 
+### Tools 
 Foundation Framework
-### contributors
+### Contributors
 Mutai Hillary
