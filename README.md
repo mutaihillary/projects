@@ -14,5 +14,6 @@ Portofolio
 Contact us
 ### Tools 
 Foundation Framework
+HTML, CSS, Javascript
 ### Contributors
 Mutai Hillary
