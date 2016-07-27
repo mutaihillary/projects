@@ -1,6 +1,28 @@
+# Personal Blog
+
++ link to the repo: https://github.com/mutaihillary/personalsite
+
+### Details
++ Its a personal website
+
+### Features
++ Home page
++ About Me
++ Portofolio
++ Contact me
+
+### Tools 
++ Foundation Framework
++ HTML
++ CSS
++ Javascript
+
+### Contributors
++ Mutai Hillary
+
 # Projects
  
-## 1.Project name: Extra Solution Technologies
+## 1.Extra Solution Technologies
 
  + link to the repo: https://github.com/mutaihillary/extra
 
@@ -22,19 +44,18 @@
 ### Contributors
 + Mutai Hillary
 
- 
-## 2.Project name: Personalsite
+## 2.Kaskazi Network
 
-+ link to the repo: https://github.com/mutaihillary/personalsite
+ + link to the repo: https://github.com/mutaihillary/extra
 
 ### Details
-+ Its a personal website
+ Its  a website for a retail distribution firm
 
 ### Features
-+ Home page
-+ About Me
-+ Portofolio
-+ Contact me
+ + Home page
+ + Service
+ + Portofolio
+ + Contact us
 
 ### Tools 
 + Foundation Framework
@@ -44,3 +65,27 @@
 
 ### Contributors
 + Mutai Hillary
+
+## 1.AIC Ziwani
+
+ + link to the repo: 
+
+### Details
+ Its  a church website. 
+
+### Features
+ + Home page
+ + Services
+ + Events
+ + Contact us
+
+### Tools 
++ Foundation Framework
++ HTML
++ CSS
++ Javascript
+
+### Contributors
++ Mutai Hillary
+ 
+
