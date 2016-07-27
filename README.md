@@ -46,7 +46,7 @@
 
 ## 2.Kaskazi Network
 
- + link to the repo: https://github.com/mutaihillary/extra
+ + link to the repo: https://github.com/mutaihillary/kasnetwork
 
 ### Details
  Its  a website for a retail distribution firm
@@ -66,7 +66,7 @@
 ### Contributors
 + Mutai Hillary
 
-## 1.AIC Ziwani
+## 3.AIC Ziwani
 
  + link to the repo: 
 
