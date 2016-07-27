@@ -1,6 +1,6 @@
-## Projects
+# Projects
  
- 1.Project name: Extra Solution Technologies
+## 1.Project name: Extra Solution Technologies
 
  + link to the repo: https://github.com/mutaihillary/extra
 
@@ -23,7 +23,7 @@
 + Mutai Hillary
 
  
-2.Project name: Personalsite
+## 2.Project name: Personalsite
 
 + link to the repo: https://github.com/mutaihillary/personalsite
 
@@ -41,5 +41,6 @@
 + HTML
 + CSS
 + Javascript
+
 ### Contributors
 + Mutai Hillary
