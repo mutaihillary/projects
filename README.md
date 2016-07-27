@@ -1,4 +1,4 @@
-# Personal Blog
+# My Personal Website
 
 + link to the repo: https://github.com/mutaihillary/personalsite
 
