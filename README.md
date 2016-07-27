@@ -7,11 +7,11 @@
 ### Details
  Its  a website for an IT firm.
 
- ### Features
- Home page
- Service
- Portofolio
- Contact us
+### Features
+ + Home page
+ + Service
+ + Portofolio
+ + Contact us
 ### Tools 
 Foundation Framework
 HTML, CSS, Javascript
