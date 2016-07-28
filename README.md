@@ -68,7 +68,7 @@
 
 ## 3.AIC Ziwani
 
- + link to the repo: 
+ + link to the repo: https://github.com/mutaihillary/aicziwani
 
 ### Details
  Its  a church website. 
