@@ -21,6 +21,7 @@
 + Mutai Hillary
 
 # Projects
+# A.FRONT-END PROJECTS
  
 ## 1.Extra Solution Technologies
 
@@ -87,5 +88,54 @@
 
 ### Contributors
 + Mutai Hillary
++ 
+# A.BACK-END PROJECTS
+
+## 1.TODO LIST
+
+ + link to the repo: 
+
+### Details
+ Its  app for creating a list of todo and deleting it once its done.
+
+### Features
+ + Home page
+ + Todo list
+ + Create to do list
+ + Add componet to do list
+
+### Tools 
++ Python language
++ Flask
++ Bootstrap framework
++ Javascript and css
+
+### Contributors
++ Mutai Hillary
+
+## 2.USERAPP
+
+ + link to the repo: 
+
+### Details
+ Its a web application with several users features.
+
+### Features
+ + Home page
+ + Creating user
+ + Login
+ + Contact us
+
+### Tools 
++ Python
++ Flask framework
++ Foundation framework
++ CSS
++ Javascript
+
+### Contributors
++ Mutai Hillary
+
+
  
 
