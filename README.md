@@ -1,5 +1,6 @@
 # My Personal Website
 
++ link to the site: https://www.bitballoon.com/sites/hillarymutai
 + link to the repo: https://github.com/mutaihillary/personalsite
 
 ### Details
@@ -23,9 +24,10 @@
 # Projects
 # A.FRONT-END PROJECTS
  
-## 1.Extra Solution Technologies
+## 1.Sage Technologies
 
- + link to the repo: https://github.com/mutaihillary/extra
+ + link to the Sage: https://www.bitballoon.com/sites/sage-technologies
+ + link to the repo: https://github.com/mutaihillary/sage
 
 ### Details
  Its  a website for an IT firm.
@@ -47,6 +49,7 @@
 
 ## 2.Kaskazi Network
 
+ + link to the site: https://www.bitballoon.com/sites/kasnetwork
  + link to the repo: https://github.com/mutaihillary/kasnetwork
 
 ### Details
