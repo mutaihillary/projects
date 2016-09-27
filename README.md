@@ -1,6 +1,6 @@
 # My Personal Website
 
-+ link to the site: https://www.bitballoon.com/sites/hillarymutai
++ link to the site: http://hillarymutai.bitballoon.com/
 + link to the repo: https://github.com/mutaihillary/personalsite
 
 ### Details
@@ -26,7 +26,7 @@
  
 ## 1.Sage Technologies
 
- + link to the Sage: https://www.bitballoon.com/sites/sage-technologies
+ + link to the Sage: http://sage-technologies.bitballoon.com/
  + link to the repo: https://github.com/mutaihillary/sage
 
 ### Details
@@ -49,7 +49,7 @@
 
 ## 2.Kaskazi Network
 
- + link to the site: https://www.bitballoon.com/sites/kasnetwork
+ + link to the site: http://kasnetwork.bitballoon.com
  + link to the repo: https://github.com/mutaihillary/kasnetwork
 
 ### Details
