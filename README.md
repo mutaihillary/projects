@@ -1,6 +1,6 @@
 # My Personal Website
 
-+ link to the site: http://hillarymutai.bitballoon.com/
++ link to the site: http://mutaihillary.bitballoon.com/
 + link to the repo: https://github.com/mutaihillary/personalsite
 
 ### Details
