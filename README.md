@@ -72,6 +72,7 @@
 
 ## 3.AIC Ziwani
 
+ + link to the site: http://aicziwani.bitballoon.com/
  + link to the repo: https://github.com/mutaihillary/aicziwani
 
 ### Details
@@ -79,8 +80,9 @@
 
 ### Features
  + Home page
+ + Pastoral Team
  + Services
- + Events
+ + Upcoming Events
  + Contact us
 
 ### Tools 
@@ -95,43 +97,49 @@
 
 #  A.BACK-END PROJECTS
 
-## 1.TODO LIST
+## 1.Nsokoo
 
- + link to the repo: 
+ + link to the site: https://nsokoo.herokuapp.com/
+ + link to the repo: https://github.com/mutaihillary/Nsokoo
 
 ### Details
- Its  app for creating a list of todo and deleting it once its done.
+ Its  a website for Nsokoo where users can attached files and communicate via  emails.
 
 ### Features
  + Home page
- + Todo list
- + Create to do list
- + Add componet to do list
+ + About
+ + Contact
 
 ### Tools 
-+ Python language
 + Flask
++ Gunicorn webserver
++ Flask email- for sending email
++ WTF forms for validation
 + Bootstrap framework
 + Javascript and css
 
 ### Contributors
 + Mutai Hillary
 
-## 2.USERAPP
+## 2.CMS
 
- + link to the repo: 
+ + link to the repo: https://github.com/mutaihillary/content-management-system
+ + link to the site: https://webexpert-cms.herokuapp.com/
 
 ### Details
- Its a web application with several users features.
+ CMS base system.
 
 ### Features
- + Home page
+ + Homepage
  + Creating user
- + Login
- + Contact us
+ + Login/logout
+ + Blog
 
 ### Tools 
 + Python
++ Flask login
++ WTF forms
++ Gunicorn webserver
 + Flask framework
 + Foundation framework
 + CSS
@@ -139,6 +147,35 @@
 
 ### Contributors
 + Mutai Hillary
+
+## 3.Webexpert
+
+ + link to the repo: https://github.com/mutaihillary/content-management-system
+ + link to the site: https://webexpert-cms.herokuapp.com/
+
+### Details
+ A group work project.
+
+### Features
+ + Homepage
+ + Creating user
+ + Login/logout
+ + Blog
+
+### Tools 
++ Python
++ Flask login
++ WTF forms
++ Gunicorn webserver
++ Flask framework
++ Foundation framework
++ CSS
++ Javascript
+
+### Contributors
++ Mutai Hillary
++ Rodger Gitau
++ David Olagos
 
 
  
