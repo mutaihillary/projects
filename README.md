@@ -121,13 +121,13 @@
 ### Contributors
 + Mutai Hillary
 
-## 2.CMS
+## 2.Webexpert
 
- + link to the repo: https://github.com/mutaihillary/content-management-system
- + link to the site: https://webexpert-cms.herokuapp.com/
+ + link to the repo: https://github.com/valdadyne/webexpert-cms
+ + link to the site: https://webexpert.herokuapp.com/
 
 ### Details
- CMS base system.
+ A blog bases cms where users can create blogs, view blogs,edit blogs, delete blogs and edit account.
 
 ### Features
  + Homepage
@@ -147,34 +147,7 @@
 
 ### Contributors
 + Mutai Hillary
-
-## 3.Webexpert
-
- + link to the repo: https://github.com/mutaihillary/content-management-system
- + link to the site: https://webexpert-cms.herokuapp.com/
-
-### Details
- A group work project.
-
-### Features
- + Homepage
- + Creating user
- + Login/logout
- + Blog
-
-### Tools 
-+ Python
-+ Flask login
-+ WTF forms
-+ Gunicorn webserver
-+ Flask framework
-+ Foundation framework
-+ CSS
-+ Javascript
-
-### Contributors
-+ Mutai Hillary
-+ Rodger Gitau
++ https://github.com/valdadyne
 + David Olagos
 
 
