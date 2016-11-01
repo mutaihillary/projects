@@ -19,7 +19,7 @@
 + Javascript
 
 ### Contributors
-+ Mutai Hillary
++ <a href="https://github.com/mutaihillary" target=0>Mutai Hillary</a>
 
 # Projects
 # A.FRONT-END PROJECTS
@@ -45,7 +45,7 @@
 + Javascript
 
 ### Contributors
-+ Mutai Hillary
++ <a href="https://github.com/mutaihillary" target=0>Mutai Hillary</a>
 
 ## 2.Kaskazi Network
 
@@ -68,7 +68,7 @@
 + Javascript
 
 ### Contributors
-+ Mutai Hillary
++ <a href="https://github.com/mutaihillary" target=0>Mutai Hillary</a>
 
 ## 3.AIC Ziwani
 
@@ -92,7 +92,7 @@
 + Javascript
 
 ### Contributors
-+ Mutai Hillary
++ <a href="https://github.com/mutaihillary" target=0>Mutai Hillary</a>
 
 
 #  A.BACK-END PROJECTS
@@ -119,7 +119,7 @@
 + Javascript and css
 
 ### Contributors
-+ Mutai Hillary
++ <a href="https://github.com/mutaihillary" target=0>Mutai Hillary</a>
 
 ## 2.Webexpert
 
@@ -146,9 +146,9 @@
 + Javascript
 
 ### Contributors
-+ Mutai Hillary
++ <a href="https://github.com/mutaihillary" target=0>Mutai Hillary</a>
 + <a href="https://github.com/valdadyne" target=0>Rodgers Gitau</a>
-+ David Olagos
++ <a href="https://github.com/olagodavid" target=0>David Olagos</a>
 
 
  
