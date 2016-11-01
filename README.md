@@ -147,7 +147,7 @@
 
 ### Contributors
 + Mutai Hillary
-+ https://github.com/valdadyne
++ <a href="https://github.com/valdadyne" target=0>Rodgers Gitau</a>
 + David Olagos
 
 
